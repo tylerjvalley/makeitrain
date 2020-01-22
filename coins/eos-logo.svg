@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="40px" viewBox="0 0 27 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>eos-logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M4.34431229,11.8976156 L13.3565804,-7.10542736e-15 L22.3791067,12.1246286 L13.402742,37.1732561 L4.34431229,11.8976156 Z M6.00408612e-13,32.6395978 L3.56674707,14.823392 L12.4897696,39.7206775 L12.389753,40 L6.00408612e-13,32.6395978 Z M14.3152014,39.7206775 L23.1079459,15.183972 L26.9090909,32.6431528 L14.4080374,39.9786699 L14.3152014,39.7206775 Z" id="path-1"></path>
+    </defs>
+    <g id="symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="eos-logo">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Combined-Shape" fill="#DDE0E3" xlink:href="#path-1"></use>
+            <g id="01__assets-/-variables-/-white" mask="url(#mask-2)" fill="#FFFFFF">
+                <g transform="translate(-16.727273, -10.181818)" id="Rectangle">
+                    <rect x="0" y="0" width="61" height="60"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>bnb-logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01__assets-/-logos-/-bnb" transform="translate(-1.000000, -1.000000)" fill="#F3BA2F" fill-rule="nonzero">
+            <g id="bnb-logo" transform="translate(1.000000, 1.000000)">
+                <path d="M6.72749,9.24462 L10.99989,4.97233 L15.27449,9.24682 L17.76049,6.76082 L10.99989,0 L4.2416,6.75862 L6.72749,9.24462 M6.6e-05,10.999659 L2.486143,8.513582 L4.972055,10.999505 L2.486,13.48556 L6.6e-05,10.999659 Z M6.72749,12.75538 L10.99989,17.02767 L15.27438,12.75329 L17.7617,15.23797 L17.76049,15.23929 L10.99989,22 L4.24138,15.2416 L4.23786,15.23808 L6.72749,12.75538 M17.028143,11.001023 L19.51422,8.514957 L22.000132,11.000869 L19.514066,13.486946 L17.028143,11.001023 Z" id="Shape"></path>
+                <polyline id="Path" points="13.52142 10.99868 13.52252 10.99868 10.99989 8.47605 9.13561 10.34033 9.1355 10.34033 8.92133 10.55461 8.47957 10.99648 8.47605 10.99989 8.47957 11.00352 10.99989 13.52395 13.52252 11.00132 13.52373 10.99989 13.52142 10.99868"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
