@@ -221,4 +221,4 @@ var confetti = {
 	}
 })();
 
-document.getElementById('push').onclick = confetti.start();
+document.getElementById('push').onClick = confetti.toggle();

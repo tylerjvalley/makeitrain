@@ -1,8 +1,13 @@
+
+.container {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
 .push {
     background: salmon;
-    position: absolute;
-    top: 40%;
-    left: 50%;
+    margin-top: 20%;
     height: 5em;
     width: 14em;
 }
