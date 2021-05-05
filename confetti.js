@@ -220,5 +220,3 @@ var confetti = {
 		}
 	}
 })();
-
-document.getElementById('push').onClick = confetti.toggle();
